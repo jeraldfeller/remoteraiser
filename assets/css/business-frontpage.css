@@ -11,15 +11,21 @@ body {
     .business-header {
         min-height: 220px;
         background: url('../images/header/header-sm.jpg') center center no-repeat scroll;
-        background-size: 100% auto;
         margin-bottom: 3%;
+        -webkit-background-size: 100% auto;
+        -moz-background-size: 100% auto;
+        background-size: 100% auto;
+        -o-background-size: 100% auto;
     }
 }
 @media (min-width: 360px) {
     .business-header {
         min-height: 220px;
         background: url('../images/header/header-sm.jpg') center center no-repeat scroll;
+        -webkit-background-size: 100% auto;
+        -moz-background-size: 100% auto;
         background-size: 100% auto;
+        -o-background-size: 100% auto;
         margin-bottom: 3%;
     }
 }
@@ -28,7 +34,10 @@ body {
     .business-header {
         min-height: 320px;
         background: url('../images/header/header-sm.jpg') center center no-repeat scroll;
+        -webkit-background-size: 100% auto;
+        -moz-background-size: 100% auto;
         background-size: 100% auto;
+        -o-background-size: 100% auto;
         margin-bottom: 3%;
     }
 }
@@ -37,7 +46,10 @@ body {
     .business-header {
         min-height: 400px;
         background: url('../images/header/header-sm.jpg') center center no-repeat scroll;
+        -webkit-background-size: 100% auto;
+        -moz-background-size: 100% auto;
         background-size: 100% auto;
+        -o-background-size: 100% auto;
         margin-bottom: 3%;
     }
 }

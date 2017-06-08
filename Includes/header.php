@@ -11,7 +11,7 @@
     <title>Remote Raiser</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="../assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="../assets/vendor/bootstrap/css/bootstrap.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
     <link href="../assets/css/business-frontpage.css" rel="stylesheet">
@@ -29,35 +29,15 @@
         }
     </style>
 
+    <script src="../assets/vendor/jquery/jquery.min.js"></script>
+    <script src="../assets/vendor/tether/tether.min.js"></script>
+    <script src="../assets/vendor/bootstrap/js/bootstrap.js"></script>
+
+
 </head>
 
 <body>
 
-<!-- Navigation -->
-<nav class="navbar fixed-top navbar-toggleable-md navbar-inverse bg-custom drop-shadow">
-    <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarExample" aria-controls="navbarExample" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-    </button>
-    <a class="navbar-brand" href="#">Remote Raiser</a>
-    <div class="container">
-        <div class="collapse navbar-collapse" id="navbarExample">
-            <ul class="navbar-nav ml-auto">
-                <li class="nav-item active">
-                    <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#">About</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#">Services</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#">Contact</a>
-                </li>
-            </ul>
-        </div>
-    </div>
-</nav>
 
 <!-- Header with Background Image -->
 <header class="business-header">

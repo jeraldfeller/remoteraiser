@@ -177,6 +177,7 @@ if(isset($_GET['success'])){
                 <strong>remoteraiser.com</strong>
                 <br>5440 Jullietta Place
                 <br>Lincoln, CA 95648
+                <br>info@remoteraiser.com
                 <br><b>Call us at 916-235-3850</b>
             </address>
         </div>
